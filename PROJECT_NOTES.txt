@@ -1,0 +1,27 @@
+BANKING SYSTEM MINI PROJECT - SUBMISSION NOTES
+
+Project title:
+Banking Management System
+
+Main file:
+main.py
+
+Data file:
+accounts.json
+
+Run command:
+python main.py
+
+Features implemented:
+1. Create account
+2. Login
+3. Check balance
+4. Deposit
+5. Withdraw
+6. Transfer
+7. Transaction history
+8. Change PIN
+9. Logout
+10. Exit
+
+No external libraries are required.
